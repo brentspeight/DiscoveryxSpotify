@@ -1,1 +1,2 @@
 # DiscoveryxSpotify
+An created for users to select any genre type, once that is selected it will show all the latest drops of music from the top artist based on dates. Like a song? Add it to a playlist.
